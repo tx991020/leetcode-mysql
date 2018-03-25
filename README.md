@@ -1,2 +1,3 @@
 ## leetcode-mysql
-刷题秋招面试用，目前正在实习中
+LeetCode全部四十题，已经更新完毕
+
